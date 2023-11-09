@@ -1,0 +1,40 @@
+# To learn about this file, please see https://www.gitpod.io/docs/references/gitpod-yml
+
+image: gitpod/workspace-postgres
+
+tasks:
+  - init: |
+      # Cleanup terminal
+      printf "\033[3J\033c\033[3J"
+
+      nvm install 18.16.0
+      nvm use 18.16.0
+      yarn install
+
+    command: |
+      cmd="yarn rw dev"
+      printf "Executing '%s' ..." "${cmd}"
+      ${cmd}
+
+ports:
+  - port: 5432
+    name: PostgreSQL database
+    onOpen: ignore
+  - port: 8910
+    name: RedwoodJS web application
+    onOpen: notify # because we already have [browser].open = true in redwood.toml
+  - port: 8911
+    name: Serverless functions
+    onOpen: ignore
+
+vscode:
+  extensions:
+    - 'dbaeumer.vscode-eslint'
+    - 'eamodio.gitlens'
+    # - "ofhumanbondage.react-proptypes-intellisense" - Not published to Open VSX (yet)
+    - 'mgmcdermott.vscode-language-babel'
+    - 'wix.vscode-import-cost'
+    - 'pflannery.vscode-versionlens'
+    - 'editorconfig.editorconfig'
+    - 'prisma.prisma'
+    - 'graphql.vscode-graphql'
