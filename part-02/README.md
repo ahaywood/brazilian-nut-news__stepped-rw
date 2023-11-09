@@ -1,5 +1,3 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ahaywood/brazilian-nut-news__stepped-rw/tree/main/part-02)
-
 # README
 
 Welcome to [RedwoodJS](https://redwoodjs.com)!

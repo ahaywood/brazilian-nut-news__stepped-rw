@@ -9,12 +9,6 @@ tasks:
 
       nvm install 18.16.0
       nvm use 18.16.0
-      yarn install
-
-    command: |
-      cmd="yarn rw dev"
-      printf "Executing '%s' ..." "${cmd}"
-      ${cmd}
 
 ports:
   - port: 5432

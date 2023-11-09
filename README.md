@@ -1,3 +1,5 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ahaywood/brazilian-nut-news__stepped-rw)
+
 # Brazilian Nut News
 
 This is a companion project to my [YouTube Series on Building a Full Stack Application with RedwoodJS](https://www.youtube.com/watch?v=Xr92RcUMngc&list=PLrz61zkUHJJFzXe0xZ55RdAF3o3PGhd0U).
