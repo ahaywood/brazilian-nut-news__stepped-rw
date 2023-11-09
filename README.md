@@ -20,7 +20,7 @@ We'll be building the "Brazilian Nut News," a Hacker News Clone.
 
 - [Figma file](https://www.figma.com/file/z6Vipsmnua7VzF9E6w4PtL/Brazilian-Nut-News-App?type=design&node-id=1%3A550&mode=design&t=PUkhU6X2ISuhK4xZ-1)
 
-## Lessons on YouTube
+## Videos on YouTube
 
 _NOTE: I'll update this section as new videos are posted_
 
@@ -84,3 +84,14 @@ yarn rw dev
 ## Questions
 
 If you have questions, please comment on the corresponding YouTube video. I'll do my best to answer them there.
+
+## Lesson Breakdown
+
+### Part 1
+
+- [On YouTube](https://www.youtube.com/watch?v=Xr92RcUMngc&list=PLrz61zkUHJJFzXe0xZ55RdAF3o3PGhd0U)
+- On Hashnode (if you prefer text) - coming soon
+
+This video introduces the multi-part YouTube series. I give a brief overview of RedwoodJS, a full-stack React framework. And the tech stack: React, GraphQL, Apollo, Storybook, Prisma, TypeScript, and Jest.
+
+I also give a brief project overview, demonstrating what we'll be building.
