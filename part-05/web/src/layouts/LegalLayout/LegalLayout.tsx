@@ -3,7 +3,12 @@ type LegalLayoutProps = {
 }
 
 const LegalLayout = ({ children }: LegalLayoutProps) => {
-  return <>{children}</>
+  return (
+    <div>
+      <h1>Legal Page</h1>
+      {children}
+    </div>
+  )
 }
 
 export default LegalLayout

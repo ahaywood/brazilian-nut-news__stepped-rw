@@ -3,7 +3,12 @@ type LinkLayoutProps = {
 }
 
 const LinkLayout = ({ children }: LinkLayoutProps) => {
-  return <>{children}</>
+  return (
+    <div>
+      <h1>Link Layout</h1>
+      {children}
+    </div>
+  )
 }
 
 export default LinkLayout

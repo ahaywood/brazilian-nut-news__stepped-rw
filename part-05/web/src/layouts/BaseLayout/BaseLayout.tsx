@@ -3,7 +3,12 @@ type BaseLayoutProps = {
 }
 
 const BaseLayout = ({ children }: BaseLayoutProps) => {
-  return <>{children}</>
+  return (
+    <div>
+      <h1>Base Layout</h1>
+      {children}
+    </div>
+  )
 }
 
 export default BaseLayout

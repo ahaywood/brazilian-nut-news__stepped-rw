@@ -12,7 +12,7 @@ const FeedPage = () => {
       </p>
       <p>
         My default route is named <code>feed</code>, link to me with `
-        <Link to={routes.feed()}>Feed</Link>`
+        <Link to={routes.link()}>Individual Link</Link>`
       </p>
     </>
   )
