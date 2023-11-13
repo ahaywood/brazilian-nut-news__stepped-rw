@@ -6,7 +6,7 @@ const DisclaimersPage = () => {
     <>
       <MetaTags title="Disclaimers" description="Disclaimers page" />
 
-      <h1>DisclaimersPage</h1>
+      <h1 className="font-condensed text-telemagenta">DisclaimersPage</h1>
       <p>
         Find me in{' '}
         <code>./web/src/pages/DisclaimersPage/DisclaimersPage.tsx</code>

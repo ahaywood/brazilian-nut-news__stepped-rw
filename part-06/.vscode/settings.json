@@ -7,5 +7,9 @@
   },
   "[prisma]": {
     "editor.formatOnSave": true
-  }
+  },
+  "cSpell.words": [
+    "Bebas",
+    "Neue"
+  ]
 }
