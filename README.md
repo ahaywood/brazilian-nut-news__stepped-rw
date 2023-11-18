@@ -27,9 +27,9 @@ We'll be building the "Brazilian Nut News," a Hacker News Clone.
 _NOTE: I'll update this section as new videos are posted_
 
 1. [Intro - Master the Full-Stack: RedwoodJS Step-by-Step Guide](https://www.youtube.com/watch?v=Xr92RcUMngc&list=PLrz61zkUHJJFzXe0xZ55RdAF3o3PGhd0U)
-2. Installing Redwood / Setup / Tooling
-3. Folder Structure
-4. Redwood Generators / Stubbing out Pages, Components, and Layouts
+2. [Installing Redwood / Setup / Tooling](https://youtu.be/lR8qwNFI5Z8)
+3. [Folder Structure](https://youtu.be/tJd2Db6y8tw)
+4. [Redwood Generators / Stubbing out Pages, Components, and Layouts](https://youtu.be/vnBij3YzOpI)
 5. Routing Overview, Dynamic Routes, Pre-render, and Sets
 6. Installing Tailwind and Initial/Customization Setup
 7. Storybook Overview
@@ -97,3 +97,26 @@ If you have questions, please comment on the corresponding YouTube video. I'll d
 This video introduces the multi-part YouTube series. I give a brief overview of RedwoodJS, a full-stack React framework. And the tech stack: React, GraphQL, Apollo, Storybook, Prisma, TypeScript, and Jest.
 
 I also give a brief project overview, demonstrating what we'll be building.
+
+### Part 2: Installing Redwood / Setup / Tooling
+
+- [On YouTube](https://youtu.be/lR8qwNFI5Z8)
+- On Hashnode (if you prefer text) - coming soon
+
+In this video, let's talk about tools and prerequisites for our RedwoodJS full-stack application. Together, we'll walk through every step from installation to the first run. Plus, I've got some pro tips on tools and extensions that will make your coding experience silky smooth.
+
+### Part 3: Folder Structure
+
+- [On YouTube](https://youtu.be/tJd2Db6y8tw)
+- On Hashnode (if you prefer text) - coming soon
+
+In this video, we'll explore the file and folder structure within RedwoodJS. We dive into Redwood's unique features, contrasting it with other frameworks like Next and Remix. Explore the API folder, backend configuration with Prisma, and serverless functions setup. On the backend, we'll briefly look at the functions, GraphQL, and lib directories, and delve into the services directory for GraphQL resolvers. On the front end, we'll look at how Redwood manages routes with their distinctive approach.
+
+### Part 4: Redwood Generators / Stubbing out Pages, Components, and Layouts
+
+- [On YouTube](https://youtu.be/vnBij3YzOpI)
+- On Hashnode (if you prefer text) - coming soon
+
+Here, we look at maximizing your efficiency as a developer through the use of RedwoodJS's generators. Out of the box, Redwood comes with 16 different generators that speed up and automate the process of creating components, layouts, and pages.
+
+🎁 [FREE CHEATSHEET](https://selfteachme.ck.page/4edae5d0d7) for working with all 16 of Redwood's generators
