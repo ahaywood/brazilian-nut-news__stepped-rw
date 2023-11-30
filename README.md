@@ -30,9 +30,9 @@ _NOTE: I'll update this section as new videos are posted_
 2. [Installing Redwood / Setup / Tooling](https://youtu.be/lR8qwNFI5Z8)
 3. [Folder Structure](https://youtu.be/tJd2Db6y8tw)
 4. [Redwood Generators / Stubbing out Pages, Components, and Layouts](https://youtu.be/vnBij3YzOpI)
-5. Routing Overview, Dynamic Routes, Pre-render, and Sets
-6. Installing Tailwind and Initial/Customization Setup
-7. Storybook Overview
+5. [Routing Overview, Dynamic Routes, Pre-render, and Sets](https://youtu.be/HkposptbF-o)
+6. [Installing Tailwind and Initial/Customization Setup](https://youtu.be/3UVQ9FdGgcA)
+7. [Storybook Overview](https://youtu.be/PMNAehI0_cI)
 8. Building frontend component: Header & Testing
 9. Building frontend component: Nav & Testing
 10. Building the Icon / SVG Script & Testing
@@ -119,4 +119,25 @@ In this video, we'll explore the file and folder structure within RedwoodJS. We 
 
 Here, we look at maximizing your efficiency as a developer through the use of RedwoodJS's generators. Out of the box, Redwood comes with 16 different generators that speed up and automate the process of creating components, layouts, and pages.
 
-🎁 [FREE CHEATSHEET](https://selfteachme.ck.page/4edae5d0d7) for working with all 16 of Redwood's generators
+🎁 [FREE CHEAT SHEET](https://selfteachme.ck.page/4edae5d0d7) for working with all 16 of Redwood's generators
+
+### Part 5: Routing Overview, Dynamic Routes, Pre-render, and Sets
+
+- [On YouTube](https://youtu.be/HkposptbF-o)
+- On Hashnode (if you prefer text) - coming soon
+
+In this video, we dive into the Redwood router and explore its unique features and capabilities. We discuss how it differs from other frameworks and demonstrate how to leverage its power to connect pages, layouts, and components.
+
+### Part 6: Installing Tailwind and Initial/Customization Setup
+
+- [On YouTube](https://youtu.be/3UVQ9FdGgcA)
+- On Hashnode (if you prefer text) - coming soon
+
+In this video, we'll set up Tailwind CSS, customize our font and color palette, and configure our project for styling. With RedwoodJS, this is one of the easiest Tailwind setups you'll ever do.
+
+### Part 7: Storybook Overview
+
+- [On YouTube](https://youtu.be/PMNAehI0_cI)
+- On Hashnode (if you prefer text) - coming soon
+
+n this YouTube video, we’ll take a look at Storybook and explore its features and benefits. With RedwoodJS this is as a simple as running a single command! We’ll go over the basics of creating stories, showcasing the different panels and controls within Storybook, and highlighting the component variations and automated documentation. Whether you're new to Storybook or looking to enhance your development workflow, this video provides a comprehensive overview of Storybook's capabilities and how it can streamline your frontend development process.
