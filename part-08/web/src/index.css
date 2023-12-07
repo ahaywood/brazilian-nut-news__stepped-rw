@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@500;700&display=swap');
+
+/**
+ * START --- SETUP TAILWINDCSS EDIT
+ *
+ * `yarn rw setup ui tailwindcss` placed these directives here
+ * to inject Tailwind's styles into your CSS.
+ * For more information, see: https://tailwindcss.com/docs/installation
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/**
+ * END --- SETUP TAILWINDCSS EDIT
+ */
+
+@layer base {
+
+}
+
+@layer components {
+  @keyframes scroll-down {
+    0% {
+      transform: translateY(-100%);
+    }
+    10% {
+      transform: translateY(-100%);
+    }
+    35% {
+      transform: translateY(0%);
+    }
+  }
+
+  .sticky-bar {
+    animation: scroll-down linear;
+    animation-timeline: scroll()
+  }
+
+  nav.top-bar ul {
+    @apply flex items-center gap-12
+  }
+
+  nav.top-bar ul li button,
+  nav.top-bar ul li a {
+    @apply font-bold text-white inline-block hover:text-icterine
+  }
+
+  nav.top-bar ul li a.button {
+    @apply bg-fountainBlue py-2 px-6 text-black hover:text-icterine
+  }
+}
+
+@layer utilities {
+  .center {
+    @apply flex justify-center items-center
+  }
+}
