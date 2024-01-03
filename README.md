@@ -140,4 +140,18 @@ In this video, we'll set up Tailwind CSS, customize our font and color palette, 
 - [On YouTube](https://youtu.be/PMNAehI0_cI)
 - On Hashnode (if you prefer text) - coming soon
 
-n this YouTube video, we’ll take a look at Storybook and explore its features and benefits. With RedwoodJS this is as a simple as running a single command! We’ll go over the basics of creating stories, showcasing the different panels and controls within Storybook, and highlighting the component variations and automated documentation. Whether you're new to Storybook or looking to enhance your development workflow, this video provides a comprehensive overview of Storybook's capabilities and how it can streamline your frontend development process.
+In this YouTube video, we’ll take a look at Storybook and explore its features and benefits. With RedwoodJS this is as a simple as running a single command! We’ll go over the basics of creating stories, showcasing the different panels and controls within Storybook, and highlighting the component variations and automated documentation. Whether you're new to Storybook or looking to enhance your development workflow, this video provides a comprehensive overview of Storybook's capabilities and how it can streamline your frontend development process.
+
+### Part 8: Don't Skip Testing: How to Start Testing React Components
+
+- [On YouTube](https://youtu.be/-9cO1OseeB8)
+- On Hashnode (if you prefer text) - coming soon
+
+Discover the importance of testing in software development and how it can give you confidence that your application won't break. We'll talk about how to approach testing and write a few tests within React and RedwoodJS
+
+### Part 9: Snapshot Tests: Pros, Cons and Best Use Cases
+
+- [On YouTube](https://youtu.be/CIMrt1kwpaE)
+- On Hashnode (if you prefer text) - coming soon
+
+In this video, we'll build a responsive header component using Redwood JS and Tailwind CSS and test it using Snapshot tests
