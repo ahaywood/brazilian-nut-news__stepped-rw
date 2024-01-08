@@ -22,15 +22,38 @@ export default meta
 
 type Story = StoryObj<typeof Icon>
 
-export const Primary: Story = {
-  // args: {
-  //   id: 'arrow',
-  //   size: 128,
-  //   className: 'fill-red-500',
-  // },
-  render: () => (
-    <div className="text-purple-500">
-      <Icon id="arrow" size={128} />
-    </div>
-  ),
+export const Arrow: Story = {
+  args: {
+    id: 'arrow',
+  },
+}
+
+export const Facebook: Story = {
+  args: {
+    id: 'facebook',
+  },
+}
+
+export const GitHub: Story = {
+  args: {
+    id: 'github',
+  },
+}
+
+export const Hide: Story = {
+  args: {
+    id: 'hide',
+  },
+}
+
+export const LinkedIn: Story = {
+  args: {
+    id: 'linkedin',
+  },
+}
+
+export const YouTube: Story = {
+  args: {
+    id: 'youtube',
+  },
 }

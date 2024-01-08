@@ -6,4 +6,4 @@
 	| "github"
 	| "hide"
 	| "linkedin"
-	| "youtube"}
+	| "youtube"
